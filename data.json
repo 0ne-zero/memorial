@@ -1,0 +1,44 @@
+{
+    "ProjectNameEN":"Memorial To Jonny Depp",
+    "Title":"Memorial To ---",
+    "Name":"Jonny Depp",
+    "Biography":"He was born in America,He died in Australia\nFarewell  ",
+    "BackgroundImagePath":"/image/jonny depp-bg.jpg",
+    "Quotes":[
+        {
+            "Text":"There Is Nothing",
+            "Author":"He"
+        }
+    ],
+    "Images":[
+        {
+            "Path":"/image/memento/jonny depp-dark.jpg",
+            "Description":"- - -"
+        },
+        {
+            "Path":"/image/memento/jonny depp-look.jpg",
+            "Description":"- - -"
+        },
+        {
+            "Path":"/image/memento/jonny depp-sleeve.webp",
+            "Description":"- - -"
+        }
+    ],
+    "Musics":[
+        {
+            "Path":"/music/Naaji - Vasiat.mp3",
+            "Description":"",
+            "CoverPath":"/image/music/Naaji - Vasiat.jpg"
+        },
+        {
+            "Path":"/music/Hossein Noorshargh - Dor Javani.mp3",
+            "Description":"",
+            "CoverPath":"/image/music/Hossein Noorshargh - Dor Javani.jpg"
+        },
+        {
+            "Path":"/music/Naaji - Javab.mp3",
+            "Description":"",
+            "CoverPath":"/image/music/Naaji - Javab.jpg"
+        }
+    ]
+}
