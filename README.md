@@ -7,6 +7,7 @@
 ## Technologies Used
 - Python - version 3.8
 - Flask  - version 2.1.3
+- HTML,CSS
 
 ## Setup
 ```bash
