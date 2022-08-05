@@ -1,12 +1,12 @@
 {
     "ProjectNameEN":"Memorial To Jonny Depp",
-    "Title":"Memorial To ---",
+    "Title":"Memorial To Jonny Depp", 
     "Name":"Jonny Depp",
-    "Biography":"He was born in America,He died in Australia\nFarewell  ",
+    "Biography":"John Christopher Depp II (born June 9, 1963) is an American actor, producer, and musician. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award, in addition to nominations for three Academy Awards and two BAFTA awards.",
     "BackgroundImagePath":"/image/jonny depp-bg.jpg",
     "Quotes":[
         {
-            "Text":"There Is Nothing",
+            "Text":"There's no truth anymore",
             "Author":"He"
         }
     ],
