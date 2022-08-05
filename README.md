@@ -16,9 +16,10 @@
 
 ## Setup
 ```bash
-$ git clone https://github.com/0ne-zero/memorial.git
-$ cd memorial
-$ pip install -r requirements.txt
+$ git clone https://github.com/0ne-zero/memorial.git && cd memorial
+$ virtualenv venv
+$ source venv/bin/activate
+$ pip3 install -r requirements.txt
 $ sudo chmod 755 main.py
 $ python3 ./main.py
 ```
