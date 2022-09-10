@@ -1,7 +1,7 @@
 # Memorial
 
 ## General Information
-- A project to keep alive the memory of loved ones.
+- A project to keep the memory of loved ones alive, you can write a biography, put music, pictures and quotes on this website.
 
 ## Technologies Used
 - Python - version 3.8
